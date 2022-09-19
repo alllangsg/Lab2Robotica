@@ -1,0 +1,8 @@
+prefix=/home/allan/catkin_ws/install
+
+Name: hello_turtle
+Description: Description of hello_turtle
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
